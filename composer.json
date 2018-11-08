@@ -1,0 +1,7 @@
+{
+    "name": "guillaumesmo/scdf-slack-sink",
+    "require": {
+        "php" : "^5.4 || ^7.0",
+        "guillaumesmo/scdf": "dev-master"
+    }
+}
